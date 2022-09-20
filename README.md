@@ -1,3 +1,29 @@
+# STUDYING TIP 
+
+~~~
+
+1. Flip through the pages
+     a. How long is the chapter
+     b. How many words are there compared to images
+     c. Does anything jump out at you? Graphs, images, tables etc.
+2. Go to the end of the chapter
+     a. Did they give you any sort of a quiz?
+     b. Quiz will give the important information that should be gained from the chapter
+3. Go to the beginning of the chapter
+     a. Read the bold print
+     b. Titles, subtitles, headings: Break down of information
+4. Go to the beginning one more time
+    a. First and last sentence in each paragraph
+    b. First sentence is the introduction
+. The last sentence of the paragraph helps you sum it up
+5. Now you have got the preview
+   a. Start reading the chapter and make your notes on it
+
+***REPETITION IS MOTHER OF LEARNING
+***
+~~~
+
+
 # AWS SAA-C02 Study Guide
 This study guide will help you pass the newer AWS Certified Solutions Architect - Associate exam. Ideally, you should reference this guide while working through the following material:
 
